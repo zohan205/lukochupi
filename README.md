@@ -30,7 +30,7 @@ A simple password generator with various encryption methods.
                                               |_|
   
   Open Source: https://github.com/zohan205/lukochupi
-  Creator: Hifumi Sec (https://github.com/zohan205)
+  Creator: Zohan_404 (https://github.com/zohan205)
   Version: 1.1.0
 ```
 
