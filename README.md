@@ -31,7 +31,7 @@ A simple password generator with various encryption methods.
   
   Open Source: https://github.com/zohan205/lukochupi
   Creator: Zohan_404 (https://github.com/zohan205)
-  Version: 1.1.0
+  Version: 1.0.0
 ```
 
 
